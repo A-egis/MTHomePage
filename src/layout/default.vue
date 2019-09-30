@@ -1,6 +1,5 @@
 <template >
   <div class="layout-default">
-    这是内容
     <el-container>
       <el-header height="">
           <my-header />
