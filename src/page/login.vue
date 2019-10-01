@@ -82,7 +82,6 @@ export default {
   },
   methods: {
     submit() {
-      console.log(this.userName, this.password);
       if (!this.userName) {
         this.error = "请输入账号";
         return false;
